@@ -1,0 +1,16 @@
+.Button {
+    height: 34px;
+    border-radius: 5px;
+}
+
+.Button--confirm {
+    background: #1e73b7;
+    border: 1px solid #1e73b7;
+    text-transform: uppercase;
+    color: white;
+    cursor: pointer;
+}
+
+.Button--right {
+    float: right;
+}

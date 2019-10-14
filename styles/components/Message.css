@@ -1,0 +1,21 @@
+.Message {
+    width: 100%;
+    padding: 0 20px;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 5px;
+    border-right: 50px solid;
+}
+
+.Message--error {
+    border-color: red;
+}
+
+.Message--success {
+    border-color: green;
+}
+
+.Message-link {
+    text-decoration: none;
+}
